@@ -11,7 +11,7 @@ public class MiPrimerTrabajoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MiPrimerTrabajoApplication.class, args);
 	}
-        ArrayList<String> nombres = new ArrayList<>();
+
 
 
 }
